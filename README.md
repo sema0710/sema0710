@@ -1,8 +1,8 @@
-## 📱info
+## 📱 info
 
 18살 주니어 front-end 개발자
 
-## 🎁interested in
+## 🎁 interested in
 
 * typescript 
 * testing
@@ -10,7 +10,7 @@
 * assemblyScript
 * PWA
 
-## Language
+## 📖 Language
 
 * typescript
 * javascript
