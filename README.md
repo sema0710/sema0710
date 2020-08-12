@@ -6,7 +6,7 @@
 
 * typescript 
 * testing
-* 사용자 경험
+* UX, UI
 * assemblyScript
 * PWA
 
