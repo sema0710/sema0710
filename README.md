@@ -7,8 +7,6 @@
 * typescript 
 * testing
 * UX, UI
-* assemblyScript
-* PWA
 
 ## 📖 Language
 
