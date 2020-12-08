@@ -6,7 +6,6 @@
 
 * typescript 
 * testing
-* UX, UI
 
 ## 📖 Language
 
