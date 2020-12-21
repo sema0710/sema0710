@@ -11,6 +11,9 @@
 * css
 * redux and middleware
 
+## portfolio
+https://www.notion.so/junsangcloud/Oh-Jun-Sang-b14d4c65a8df44bf9745be168cef8c55
+
 ## 📱 info
 
 18살 예비 주니어 front-end 개발자
