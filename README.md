@@ -15,5 +15,4 @@
 * typescript
 * javascript
 
-## 🧑‍💻 I Want Work On 당근마켓! 🧑‍💻
 
