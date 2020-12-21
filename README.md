@@ -1,7 +1,7 @@
 ## 🎉 구직중 🎉
-* contect
-  pandati@naver.com
-  pandati0710@gmail.com
+* contect. 
+  pandati@naver.com. 
+  pandati0710@gmail.com. 
 
 ## 📱 info
 
