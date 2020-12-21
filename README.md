@@ -1,7 +1,15 @@
 ## 🎉 구직중 🎉
-### contect. 
+### contect
 * pandati@naver.com. 
 * pandati0710@gmail.com. 
+
+### skill
+* react
+* javascript
+* typescript
+* html
+* css
+* redux and middleware
 
 ## 📱 info
 
