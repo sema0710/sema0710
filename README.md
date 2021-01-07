@@ -1,4 +1,4 @@
-## 🎉 구직중 🎉
+## sema0710
 ### contect
 * pandati@naver.com. 
 * pandati0710@gmail.com. 
@@ -16,7 +16,7 @@ https://www.notion.so/junsangcloud/Oh-Jun-Sang-b14d4c65a8df44bf9745be168cef8c55
 
 ## 📱 info
 
-18살 예비 주니어 front-end 개발자
+19살 예비 주니어 front-end 개발자
 
 ## 🎁 interested in
 
@@ -28,5 +28,6 @@ https://www.notion.so/junsangcloud/Oh-Jun-Sang-b14d4c65a8df44bf9745be168cef8c55
 
 * typescript
 * javascript
+* java
 
 
