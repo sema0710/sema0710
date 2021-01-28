@@ -1,5 +1,5 @@
 ## sema0710
-### contect
+### contact
 * pandati@naver.com. 
 * pandati0710@gmail.com. 
 
