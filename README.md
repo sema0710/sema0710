@@ -5,6 +5,7 @@
 
 ### skill
 * react
+* next
 * javascript
 * typescript
 * html
@@ -16,7 +17,7 @@ https://www.notion.so/junsangcloud/Oh-Jun-Sang-b14d4c65a8df44bf9745be168cef8c55
 
 ## 📱 info
 
-19살 주니어 front-end 개발자
+22살 주니어 front-end 개발자
 
 ## 🎁 interested in
 
